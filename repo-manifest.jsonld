@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/kitaru-skills/commit/777cd41ed792bb722f21d041b1f220e5e5714284",
       "git:hexsha": "777cd41ed792bb722f21d041b1f220e5e5714284",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.19.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.19.0",
+      "repolex:parsedAt": "2026-11-08T04:59:28.819468+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zenml-io/kitaru-skills/commit/9a056cc3c3f87147ae0e2ab2fd10eec86f922b2b",
