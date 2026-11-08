@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "kitaru-skills",
+  "versions": [
+    {
+      "commit": "777cd41ed792bb722f21d041b1f220e5e5714284",
+      "tag": "v0.19.0",
+      "parsed_at": "2026-11-08T04:59:28.819932+00:00"
+    }
+  ]
+}
